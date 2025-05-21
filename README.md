@@ -80,19 +80,3 @@ Ensure you have the following installed:
   "title": "Complete assignment",
   "completed": false
 }
-```
-
-## 🧹 TODO (Future Enhancements)
-
-- Persist data using a database (e.g., H2, MySQL)
-- Add due dates and priorities
-- Create a frontend using React or Angular
-- Add user authentication and login support
-
-## 📄 License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
-
-## ✨ Author
-
-**Sweety** – *Java Developer and Spring Boot Enthusiast*
